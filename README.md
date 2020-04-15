@@ -1,5 +1,7 @@
 # Mic switcher
 
+Unmute input volume by physical switch (e.g. foot switch.) 
+
 ## Environment
 
 * macOS 10.15
@@ -11,6 +13,7 @@ To control the input volume, micsw.py uses AppleScript, so it only works  on mac
 * Arduino
 * Python3
 * pyserial
+* [terminal-notifier](https://github.com/julienXX/terminal-notifier)
 
 ## How to use
 
